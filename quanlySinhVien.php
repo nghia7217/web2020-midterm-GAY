@@ -8,8 +8,8 @@ echo "<table border='1' style='margin-left:250px'>
         <th>Mật khẩu</th>
         <th>Họ tên</th>
         <th>Lớp</th>
-        <th>Số điện thoại</th>
-        <th>NGành</th>
+        <th>Số điện thoại </th>
+        <th>NGành Học</th>
         <th>Mã Sinh Viên</th>
     </tr>";
     while($tk=$result->fetch(PDO::FETCH_ASSOC)){
